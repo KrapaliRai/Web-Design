@@ -1,0 +1,25 @@
+h1{
+	color: rgba(0,0,0);
+	border-color: blue;
+	border-width: 1px;
+	border-style: solid; 
+}
+li{
+	color: rgba(0,0,0);
+}
+h3{
+	background: rgb(244,50,50,.4);
+	border: 3px solid maroon;
+
+}
+body{
+	background: rgb(190,56,150);
+	background: url(https://autodesk.i.lithium.com/t5/image/serverpage/image-id/359183iE99B918926F5676E/image-size/large?v=1.0&px=999);
+	background-repeat:  no-repeat;
+	background-size: cover;
+	/*
+		background: url() is used for giving url of some image that can be set as a background for the page;
+		background-repeat: no-repeat will stop the tile of given image;
+		background-size: cover; :is used to stretch the image all over the page.;
+	*/
+}
